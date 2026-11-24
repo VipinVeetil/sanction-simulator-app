@@ -1,1 +1,1 @@
-sanction-simulator==0.1.4
+sanction-simulator==0.1.5
